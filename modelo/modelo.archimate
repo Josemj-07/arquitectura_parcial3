@@ -9233,7 +9233,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             <child xsi:type="archimate:DiagramObject" id="n-v11-1-44" fillColor="#ffaa5a" archimateElement="bo-novedad">
               <bounds x="450" y="97" width="170" height="75"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n-v11-1-45" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-disponibilidad">
+            <child xsi:type="archimate:DiagramObject" id="n-v11-1-45" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-disponibilidad">
               <bounds x="660" y="97" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
             </child>
@@ -9249,11 +9249,11 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             <child xsi:type="archimate:DiagramObject" id="n-v11-1-49" fillColor="#ffaa5a" archimateElement="ev-falla">
               <bounds x="240" y="212" width="170" height="75"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n-v11-1-50" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-prev">
+            <child xsi:type="archimate:DiagramObject" id="n-v11-1-50" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-prev">
               <bounds x="450" y="212" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n-v11-1-51" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-lib">
+            <child xsi:type="archimate:DiagramObject" id="n-v11-1-51" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-lib">
               <bounds x="660" y="212" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
             </child>
@@ -9467,15 +9467,15 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
           </child>
           <child xsi:type="archimate:Group" id="n-v11-2-38" name="7. Lenguaje ubicuo">
             <bounds x="24" y="1450" width="1280" height="260"/>
-            <child xsi:type="archimate:DiagramObject" id="n-v11-2-39" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-vencimiento">
+            <child xsi:type="archimate:DiagramObject" id="n-v11-2-39" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-vencimiento">
               <bounds x="30" y="40" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n-v11-2-40" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-paquete">
+            <child xsi:type="archimate:DiagramObject" id="n-v11-2-40" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-paquete">
               <bounds x="240" y="40" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n-v11-2-41" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-contador">
+            <child xsi:type="archimate:DiagramObject" id="n-v11-2-41" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-contador">
               <bounds x="450" y="40" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
             </child>
@@ -9572,7 +9572,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
               <bounds x="30" y="155" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-1-r-lu2-027-1" source="n2-v7-1-5" target="n2-v7-1-6" archimateRelationship="r-lu2-027"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-1-6" targetConnections="c2-v7-1-r-lu2-027-1" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-prev">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-1-6" targetConnections="c2-v7-1-r-lu2-027-1" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-prev">
               <bounds x="240" y="155" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-1-r-lu2-002-1" source="n2-v7-1-6" target="n2-v7-1-7" archimateRelationship="r-lu2-002"/>
@@ -9724,7 +9724,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
         <element xsi:type="archimate:ArchimateDiagramModel" name="V7.2 - Lenguaje ubicuo: homónimos entre contextos" id="v7-2">
           <child xsi:type="archimate:Group" id="n2-v7-2-1" name="«Ciclo»: Registro de uso vs. Configuración de flota">
             <bounds x="24" y="24" width="440" height="260"/>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-2" fillColor="#ffe1aa" lineColor="#c00000" archimateElement="bo-lu-cicdron">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-2" lineColor="#c00000" fillColor="#ffe1aa" archimateElement="bo-lu-cicdron">
               <bounds x="30" y="40" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-013-1" source="n2-v7-2-2" target="n2-v7-2-3" archimateRelationship="r-lu2-013"/>
@@ -9732,7 +9732,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             <child xsi:type="archimate:DiagramObject" id="n2-v7-2-3" targetConnections="c2-v7-2-r-lu2-013-1" archimateElement="mn-lu-cicdron">
               <bounds x="240" y="40" width="170" height="75"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-4" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-cicbat">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-4" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-cicbat">
               <bounds x="30" y="155" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-014-1" source="n2-v7-2-4" target="n2-v7-2-5" archimateRelationship="r-lu2-014"/>
@@ -9743,7 +9743,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
           </child>
           <child xsi:type="archimate:Group" id="n2-v7-2-6" name="«Contador»: Planeación vs. Configuración de flota">
             <bounds x="524" y="24" width="440" height="260"/>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-7" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-contador">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-7" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-contador">
               <bounds x="30" y="40" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-015-1" source="n2-v7-2-7" target="n2-v7-2-8" archimateRelationship="r-lu2-015"/>
@@ -9751,7 +9751,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             <child xsi:type="archimate:DiagramObject" id="n2-v7-2-8" targetConnections="c2-v7-2-r-lu2-015-1" archimateElement="mn-lu-contador">
               <bounds x="240" y="40" width="170" height="75"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-9" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-acum">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-9" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-acum">
               <bounds x="30" y="155" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-016-1" source="n2-v7-2-9" target="n2-v7-2-10" archimateRelationship="r-lu2-016"/>
@@ -9762,7 +9762,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
           </child>
           <child xsi:type="archimate:Group" id="n2-v7-2-11" name="«Vencimiento»: Planeación vs. Personal habilitado">
             <bounds x="1024" y="24" width="440" height="260"/>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-12" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-vencimiento">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-12" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-vencimiento">
               <bounds x="30" y="40" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-017-1" source="n2-v7-2-12" target="n2-v7-2-13" archimateRelationship="r-lu2-017"/>
@@ -9770,7 +9770,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             <child xsi:type="archimate:DiagramObject" id="n2-v7-2-13" targetConnections="c2-v7-2-r-lu2-017-1" archimateElement="mn-vencimiento">
               <bounds x="240" y="40" width="170" height="75"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-14" fillColor="#ffffb5" lineColor="#c00000" archimateElement="bo-lu-vcert">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-14" lineColor="#c00000" fillColor="#ffffb5" archimateElement="bo-lu-vcert">
               <bounds x="30" y="155" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-018-1" source="n2-v7-2-14" target="n2-v7-2-15" archimateRelationship="r-lu2-018"/>
@@ -9781,7 +9781,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
           </child>
           <child xsi:type="archimate:Group" id="n2-v7-2-16" name="«Disponibilidad»: Aeronavegabilidad vs. Indicadores">
             <bounds x="1524" y="24" width="440" height="260"/>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-17" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-disponibilidad">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-17" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-disponibilidad">
               <bounds x="30" y="40" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-019-1" source="n2-v7-2-17" target="n2-v7-2-18" archimateRelationship="r-lu2-019"/>
@@ -9789,7 +9789,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             <child xsi:type="archimate:DiagramObject" id="n2-v7-2-18" targetConnections="c2-v7-2-r-lu2-019-1" archimateElement="mn-disponibilidad">
               <bounds x="240" y="40" width="170" height="75"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-19" fillColor="#ffffb5" lineColor="#c00000" archimateElement="bo-lu-idisp">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-19" lineColor="#c00000" fillColor="#ffffb5" archimateElement="bo-lu-idisp">
               <bounds x="30" y="155" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-020-1" source="n2-v7-2-19" target="n2-v7-2-20" archimateRelationship="r-lu2-020"/>
@@ -9800,7 +9800,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
           </child>
           <child xsi:type="archimate:Group" id="n2-v7-2-21" name="«Servicio»: Aeronavegabilidad vs. Planeación">
             <bounds x="24" y="344" width="440" height="260"/>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-22" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-lib">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-22" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-lib">
               <bounds x="30" y="40" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-021-1" source="n2-v7-2-22" target="n2-v7-2-23" archimateRelationship="r-lu2-021"/>
@@ -9808,7 +9808,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             <child xsi:type="archimate:DiagramObject" id="n2-v7-2-23" targetConnections="c2-v7-2-r-lu2-021-1" archimateElement="mn-lu-lib">
               <bounds x="240" y="40" width="170" height="75"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-24" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-paquete">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-24" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-paquete">
               <bounds x="30" y="155" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-022-1" source="n2-v7-2-24" target="n2-v7-2-25" archimateRelationship="r-lu2-022"/>
@@ -9819,7 +9819,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
           </child>
           <child xsi:type="archimate:Group" id="n2-v7-2-26" name="«Inspección»: Aeronavegabilidad vs. Órdenes de trabajo">
             <bounds x="524" y="344" width="440" height="260"/>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-27" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-prev">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-27" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-prev">
               <bounds x="30" y="40" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-002-1" source="n2-v7-2-27" target="n2-v7-2-28" archimateRelationship="r-lu2-002"/>
@@ -9827,7 +9827,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             <child xsi:type="archimate:DiagramObject" id="n2-v7-2-28" targetConnections="c2-v7-2-r-lu2-002-1" archimateElement="mn-lu-prev">
               <bounds x="240" y="40" width="170" height="75"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-29" fillColor="#ffe1aa" lineColor="#c00000" archimateElement="bo-lu-inspesp">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-29" lineColor="#c00000" fillColor="#ffe1aa" archimateElement="bo-lu-inspesp">
               <bounds x="30" y="155" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-023-1" source="n2-v7-2-29" target="n2-v7-2-30" archimateRelationship="r-lu2-023"/>
@@ -9838,7 +9838,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
           </child>
           <child xsi:type="archimate:Group" id="n2-v7-2-31" name="«Traslado»: Configuración de flota vs. Abastecimiento">
             <bounds x="1024" y="344" width="440" height="260"/>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-32" fillColor="#ffaa5a" lineColor="#c00000" archimateElement="bo-lu-trasdron">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-32" lineColor="#c00000" fillColor="#ffaa5a" archimateElement="bo-lu-trasdron">
               <bounds x="30" y="40" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-024-1" source="n2-v7-2-32" target="n2-v7-2-33" archimateRelationship="r-lu2-024"/>
@@ -9846,7 +9846,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             <child xsi:type="archimate:DiagramObject" id="n2-v7-2-33" targetConnections="c2-v7-2-r-lu2-024-1" archimateElement="mn-lu-trasdron">
               <bounds x="240" y="40" width="170" height="75"/>
             </child>
-            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-34" fillColor="#ffe1aa" lineColor="#c00000" archimateElement="bo-lu-trasrep">
+            <child xsi:type="archimate:DiagramObject" id="n2-v7-2-34" lineColor="#c00000" fillColor="#ffe1aa" archimateElement="bo-lu-trasrep">
               <bounds x="30" y="155" width="170" height="75"/>
               <feature name="deriveElementLineColor" value="false"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v7-2-r-lu2-025-1" source="n2-v7-2-34" target="n2-v7-2-35" archimateRelationship="r-lu2-025"/>
@@ -9865,9 +9865,9 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
       <folder name="V8 Mapa de contextos" id="id-v8-mapa-contextos">
         <element xsi:type="archimate:ArchimateDiagramModel" name="V8.1 - Mapa de contextos: contextos y patrones de relación" id="v8-1">
           <child xsi:type="archimate:DiagramObject" id="n2-v8-1-1" textAlignment="1" archimateElement="grp-nucleo">
-            <bounds x="454" y="24" width="970" height="145"/>
+            <bounds x="454" y="-60" width="1155" height="229"/>
             <child xsi:type="archimate:DiagramObject" id="n2-v8-1-2" targetConnections="c2-v8-1-r-cm-038-1 c2-v8-1-r-cm-050-1 c2-v8-1-r-cm-056-1" fillColor="#ffaa5a" archimateElement="ac-aeronav">
-              <bounds x="30" y="40" width="170" height="75"/>
+              <bounds x="24" y="36" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-048-1" lineColor="#2e7d32" source="n2-v8-1-2" target="n2-v8-1-7" archimateRelationship="r-cm-048">
                 <bendpoint startX="169" startY="163" endX="-201" endY="-122"/>
               </sourceConnection>
@@ -9878,7 +9878,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-401-1" lineColor="#6a1b9a" source="n2-v8-1-2" target="n2-v8-1-15" archimateRelationship="r-401"/>
             </child>
             <child xsi:type="archimate:DiagramObject" id="n2-v8-1-3" targetConnections="c2-v8-1-r-cm-036-1 c2-v8-1-r-cm-046-1 c2-v8-1-r-402-1" fillColor="#ffaa5a" archimateElement="ac-planeacion">
-              <bounds x="400" y="40" width="170" height="75"/>
+              <bounds x="480" y="72" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-038-1" lineColor="#1565c0" source="n2-v8-1-3" target="n2-v8-1-2" archimateRelationship="r-cm-038"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-040-1" lineColor="#1565c0" source="n2-v8-1-3" target="n2-v8-1-6" archimateRelationship="r-cm-040"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-044-1" lineColor="#2e7d32" source="n2-v8-1-3" target="n2-v8-1-7" archimateRelationship="r-cm-044">
@@ -9887,7 +9887,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-074-1" lineColor="#757575" source="n2-v8-1-3" target="n2-v8-1-12" archimateRelationship="r-cm-074"/>
             </child>
             <child xsi:type="archimate:DiagramObject" id="n2-v8-1-4" targetConnections="c2-v8-1-r-cm-034-1 c2-v8-1-r-cm-042-1" fillColor="#ffaa5a" archimateElement="ac-configuracion">
-              <bounds x="770" y="40" width="170" height="75"/>
+              <bounds x="936" y="48" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-036-1" lineColor="#1565c0" source="n2-v8-1-4" target="n2-v8-1-3" archimateRelationship="r-cm-036"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-062-1" lineColor="#757575" source="n2-v8-1-4" target="n2-v8-1-11" archimateRelationship="r-cm-062"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-076-1" lineColor="#757575" source="n2-v8-1-4" target="n2-v8-1-12" archimateRelationship="r-cm-076">
@@ -9896,9 +9896,9 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             </child>
           </child>
           <child xsi:type="archimate:DiagramObject" id="n2-v8-1-5" textAlignment="1" archimateElement="grp-soporte">
-            <bounds x="454" y="309" width="970" height="145"/>
+            <bounds x="372" y="264" width="1275" height="529"/>
             <child xsi:type="archimate:DiagramObject" id="n2-v8-1-6" targetConnections="c2-v8-1-r-cm-040-1 c2-v8-1-r-cm-052-1 c2-v8-1-r-399-1" fillColor="#ffe1aa" archimateElement="ac-abastecimiento">
-              <bounds x="30" y="40" width="170" height="75"/>
+              <bounds x="48" y="120" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-054-1" lineColor="#2e7d32" source="n2-v8-1-6" target="n2-v8-1-7" archimateRelationship="r-cm-054">
                 <bendpoint startX="185" startY="26" endX="-185" endY="26"/>
               </sourceConnection>
@@ -9909,7 +9909,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
               </sourceConnection>
             </child>
             <child xsi:type="archimate:DiagramObject" id="n2-v8-1-7" targetConnections="c2-v8-1-r-cm-044-1 c2-v8-1-r-cm-048-1 c2-v8-1-r-cm-054-1 c2-v8-1-r-cm-058-1" fillColor="#ffe1aa" archimateElement="ac-ot">
-              <bounds x="400" y="40" width="170" height="75"/>
+              <bounds x="696" y="108" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-042-1" lineColor="#1565c0" source="n2-v8-1-7" target="n2-v8-1-4" archimateRelationship="r-cm-042"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-046-1" lineColor="#2e7d32" source="n2-v8-1-7" target="n2-v8-1-3" archimateRelationship="r-cm-046">
                 <bendpoint startX="26" startY="-142" endX="26" endY="142"/>
@@ -9924,16 +9924,16 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-080-1" lineColor="#757575" source="n2-v8-1-7" target="n2-v8-1-12" archimateRelationship="r-cm-080"/>
             </child>
             <child xsi:type="archimate:DiagramObject" id="n2-v8-1-8" targetConnections="c2-v8-1-r-397-1 c2-v8-1-r-398-1" fillColor="#ffe1aa" archimateElement="ac-uso">
-              <bounds x="770" y="40" width="170" height="75"/>
+              <bounds x="1080" y="252" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-034-1" lineColor="#1565c0" source="n2-v8-1-8" target="n2-v8-1-4" archimateRelationship="r-cm-034"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-064-1" lineColor="#757575" source="n2-v8-1-8" target="n2-v8-1-11" archimateRelationship="r-cm-064"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-078-1" lineColor="#757575" source="n2-v8-1-8" target="n2-v8-1-12" archimateRelationship="r-cm-078"/>
             </child>
           </child>
           <child xsi:type="archimate:DiagramObject" id="n2-v8-1-9" textAlignment="1" archimateElement="grp-generico">
-            <bounds x="454" y="594" width="970" height="145"/>
+            <bounds x="468" y="888" width="1261" height="313"/>
             <child xsi:type="archimate:DiagramObject" id="n2-v8-1-10" targetConnections="c2-v8-1-r-403-1" fillColor="#ffffb5" archimateElement="ac-personal">
-              <bounds x="30" y="40" width="170" height="75"/>
+              <bounds x="84" y="48" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-056-1" lineColor="#6a1b9a" source="n2-v8-1-10" target="n2-v8-1-2" archimateRelationship="r-cm-056">
                 <bendpoint startX="110" startY="-285" endX="110" endY="285"/>
               </sourceConnection>
@@ -9941,13 +9941,13 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-cm-070-1" lineColor="#757575" source="n2-v8-1-10" target="n2-v8-1-11" archimateRelationship="r-cm-070"/>
             </child>
             <child xsi:type="archimate:DiagramObject" id="n2-v8-1-11" targetConnections="c2-v8-1-r-cm-060-1 c2-v8-1-r-cm-062-1 c2-v8-1-r-cm-064-1 c2-v8-1-r-cm-066-1 c2-v8-1-r-cm-068-1 c2-v8-1-r-cm-070-1 c2-v8-1-r-404-1" fillColor="#ffffb5" archimateElement="ac-plataforma">
-              <bounds x="400" y="40" width="170" height="75"/>
+              <bounds x="588" y="72" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-id-be68f8f3087c44d2a33453a6a467a0d1-1" lineColor="#757575" source="n2-v8-1-11" target="n2-v8-1-20" archimateRelationship="id-be68f8f3087c44d2a33453a6a467a0d1">
                 <bendpoint startX="400" startY="26" endX="-400" endY="26"/>
               </sourceConnection>
             </child>
             <child xsi:type="archimate:DiagramObject" id="n2-v8-1-12" targetConnections="c2-v8-1-r-cm-072-1 c2-v8-1-r-cm-074-1 c2-v8-1-r-cm-076-1 c2-v8-1-r-cm-078-1 c2-v8-1-r-cm-080-1 c2-v8-1-r-cm-082-1" fillColor="#ffffb5" archimateElement="ac-indicadores">
-              <bounds x="770" y="40" width="170" height="75"/>
+              <bounds x="936" y="156" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-id-e3f243c933a94d83a2d28f0db7aca7eb-1" lineColor="#757575" source="n2-v8-1-12" target="n2-v8-1-20" archimateRelationship="id-e3f243c933a94d83a2d28f0db7aca7eb"/>
             </child>
           </child>
@@ -9971,7 +9971,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             </child>
           </child>
           <child xsi:type="archimate:DiagramObject" id="n2-v8-1-17" textAlignment="1" archimateElement="grp-ecosistema">
-            <bounds x="1624" y="24" width="230" height="715"/>
+            <bounds x="1788" y="12" width="230" height="715"/>
             <child xsi:type="archimate:DiagramObject" id="n2-v8-1-18" fillColor="#dcdcdc" archimateElement="ext-dji">
               <bounds x="30" y="40" width="170" height="75"/>
               <sourceConnection xsi:type="archimate:Connection" id="c2-v8-1-r-397-1" lineColor="#c62828" source="n2-v8-1-18" target="n2-v8-1-8" archimateRelationship="r-397"/>
@@ -9988,7 +9988,7 @@ Naranja: contextos núcleo. Gris: sistemas externos.</content>
             </child>
           </child>
           <child xsi:type="archimate:Note" id="n2-v8-1-21">
-            <bounds x="24" y="799" width="1830" height="50"/>
+            <bounds x="528" y="1296" width="1830" height="50"/>
             <content>Cada flujo une dos contextos (o un contexto y un sistema externo) y lleva en su nombre el patrón y lo que viaja, por ejemplo «[C/P] uso de vuelos». Color del flujo según el patrón: verde = Socios; azul = Cliente–Proveedor; gris = Conformista; rojo = Capa anticorrupción; morado = Servicio de host abierto / lenguaje publicado. Indicadores y reportes e Identidad y notificaciones reciben como conformistas los datos de casi todos. Los sistemas externos se ubican al lado de los contextos con los que se integran. Las interfaces y servicios de cada relación están en V8.2.</content>
           </child>
           <documentation>Los nueve contextos delimitados por clasificación y los sistemas externos, unidos por flujos cuyo color y nombre indican el patrón de relación (socios, cliente–proveedor, conformista, servicio de host abierto o capa anticorrupción).</documentation>
